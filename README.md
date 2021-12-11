@@ -1,12 +1,12 @@
 # Stroke_Classification
 Predicting Stroke 
 
-## Abstract:
+### Abstract:
 
 According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
 In this project our task is to predict whether a patient is likely to get stroke based on the input (features).
 
-## Data Description:
+### Data Description:
 
 The data will be used in this project is provided by <a href="https://www.kaggle.com/fedesoriano/stroke-prediction-dataset">Kaggle</a>. 
 Each row in the data provides relavant information about the patient, it contains of 5110 rows and 12 columns.
@@ -24,7 +24,7 @@ Each row in the data provides relavant information about the patient, it contain
 11) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"*
 12) stroke: 1 if the patient had a stroke or 0 if not.
 
-## Tools:
+### Tools:
 
 •	Numpy and Pandas for data manipulation 
 
