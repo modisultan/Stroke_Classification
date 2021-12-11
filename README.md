@@ -1,5 +1,5 @@
 # Stroke_Classification
-Predicting Stroke 
+
 
 ### Abstract:
 
