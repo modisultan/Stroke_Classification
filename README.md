@@ -3,13 +3,15 @@
 
 ### Abstract:
 
-According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, responsible for approximately 11% of total deaths.
-In this project our goal is to predict whether a patient is likely to get stroke based on the input (features). 
+According to the World Health Organization (WHO) stroke is the 2nd leading cause of death globally, Early action can reduce brain damage and other complications.
+In this project our goal is to predict whether a patient is likely to get stroke or not.
 
 ### Data Description:
 
 The data will be used in this project is provided by <a href="https://www.kaggle.com/fedesoriano/stroke-prediction-dataset">Kaggle</a>. 
 Each row in the data provides relavant information about the patient, it contains of 5110 rows and 12 columns.
+
+#### columns contain:
 
 1) id: unique identifier
 2) gender: "Male", "Female" or "Other"
@@ -30,4 +32,4 @@ Each row in the data provides relavant information about the patient, it contain
 
 •	Matplotlie and Seaborn for visualise data
 
-•	Sklearn for modle training
+•	Sklearn for modle training 
