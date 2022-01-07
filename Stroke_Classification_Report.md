@@ -10,7 +10,7 @@ The goal is of this project is to predict whether a patient is likely to get str
 This project is one of the T5 Data Science Boot Camp requirements the data provided by <a href="https://www.kaggle.com/fedesoriano/stroke-prediction-dataset">Kaggle</a>. 
 
 ### Data:
-The data will be used in this project is provided by <a href="https://www.kaggle.com/fedesoriano/stroke-prediction-dataset">Kaggle</a>. 
+The data that used in this project is provided by <a href="https://www.kaggle.com/fedesoriano/stroke-prediction-dataset">Kaggle</a>. 
 Each row in the data provides relevant information about the patient, it contains of 5110 rows and 12 columns.
 
 Columns contains:
