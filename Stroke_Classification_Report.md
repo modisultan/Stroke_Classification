@@ -59,4 +59,4 @@ Columns contains:
 
 ### Communication:
 
-The slides are provided <a href="https://github.com/RazanAlzahrani1/Stroke_Classification/blob/main/Stroke_Classification_Presentation.pdf">here</a>, and proposal provided at <a href="https://github.com/RazanAlzahrani1/Stroke_Classification">Readme</a> file of the project.
+The slides are provided <a href="https://github.com/modisultan/Stroke_Classification/blob/main/Stroke_classification_presnt.pdf">here</a>, and proposal provided at <a href="https://github.com/RazanAlzahrani1/Stroke_Classification">Readme</a> file of the project.
